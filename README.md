@@ -19,7 +19,7 @@ Python >= 3.5
 
     git clone https://github.com/haje01/gym-tictactoe.git
     cd gym-tictactoe/
-    pip install -e .
+    pip3 install -e .
 
 
 ## Try example agents
